@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Ejercicio patrones de diseno.sln"
+    "dotnet.defaultSolution": "ejercicio_patrones_de_diseno.sln"
 }
